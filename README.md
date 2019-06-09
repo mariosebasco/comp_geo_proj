@@ -1,7 +1,7 @@
-#Mario Sebasco - Computational Geometry Project 1
+# Mario Sebasco - Computational Geometry Project 1
 
 
-##Intro/Description
+## Intro/Description
 
 The program `compGeoProj.py` is a python script which uses python 2.7.6 and the following three libraries:
 * math (standard math library)
@@ -18,7 +18,7 @@ The program has several different functions that come together to produce the fi
 The overall program then is just a combination of these functions used to display the polygons, their union, and their intersections.
 
 
-##Running the code
+## Running the code
 In order to run the code use the executable file `compGeoProj.py`. The terminal will prompt you to input the name of the text file consisting of the polygonal vertices. If input correctly the program will then generate the images (four if two polygons are involved: polygon1, polygon2, union, intersection). The folder comes with `sample1.txt` and `sample2.txt` as examples of what the user should expect to see.
 
 Please note the following restrictions for the program:
